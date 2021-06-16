@@ -1,2 +1,2 @@
 
-Gerador de senhas aleatórias em Python
+👾 Gerador de senhas aleatórias em Python 👾 
